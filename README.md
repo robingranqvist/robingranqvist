@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey, hey, hey ✨
 
+#### Check out my stuff:
+
+🤙 [Portfolio](https://www.google.com)
+🙏 [Dribbble](https://dribbble.com/robingranqvist)
+🖐 [Webflow](https://webflow.com/robingranqvist)
 
 <!--
 **robingranqvist/robingranqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
