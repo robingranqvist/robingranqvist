@@ -1,7 +1,5 @@
 ### Hey, hey, hey ✨
 
-#### Check out my stuff:
-
 ## 🤙 [Portfolio](https://www.google.com)  
 ## 🙏 [Dribbble](https://dribbble.com/robingranqvist)  
 ## 🖐 [Webflow](https://webflow.com/robingranqvist)  
