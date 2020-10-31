@@ -1,10 +1,5 @@
 ## 🖐🍉
 
-### 🤙 [Portfolio](https://www.google.com)  
-### 🙏 [Dribbble](https://dribbble.com/robingranqvist)  
-### 🌊 [Webflow](https://webflow.com/robingranqvist)  
-### 💌 robin.granqvist@hotmail.se
-
 <!--
 **robingranqvist/robingranqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
